@@ -28,3 +28,25 @@
 # start - element początkowy
 # stop - el. końcowy
 # step - kroki o ile jest zmieniany element startowy i następny
+
+#
+#
+# a = input("podaj liczbe  a:")
+# b = input("podaj liczbe  b:")
+# c = input("podaj liczbe  c:")
+# print(a)
+# print(b)
+# print(c)
+# b= float(b)
+# c = float(c)
+# a = float(a)
+# if (a > b) & (a> c):
+#     print('liczba a jest największa' )
+# elif (a < b) & (a < c) :
+#     print('liczba a jest najmniejsza ')
+#     if (b> a) & (b> c):
+#         print('liczba b jest największa')
+#     elif (b< a) & (b < c):
+#         print('liczba b jest najmniejsza ')
+# else:
+#     print('liczby są równe')
